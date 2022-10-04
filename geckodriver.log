@@ -1,0 +1,40 @@
+1661511968111	geckodriver	INFO	Listening on 127.0.0.1:49864
+1661511971176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSURYA~1\\AppData\\Local\\Temp\\1\\rust_mozprofilerW5Lpz"
+1661511971515	Marionette	INFO	Marionette enabled
+1661511971520	Marionette	INFO	Listening on port 49878
+WebDriver BiDi listening on ws://localhost:49865
+Read port: 49878
+1661511971751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSURYA~1\\AppData\\Local\\Temp\\1\\rust_mozprofilerW5Lpz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49865/devtools/browser/e3ca0fbc-29b5-42a3-bcc7-9a3f4c2ec87c
+JavaScript warning: moz-extension://89d1ed27-1901-4c16-97cd-cb71d553f6e8/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1661511984109	Marionette	INFO	Stopped listening on port 49878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663071165163	geckodriver	INFO	Listening on 127.0.0.1:55444
+1663071168248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RSURYA~1\\AppData\\Local\\Temp\\3\\rust_mozprofileesoiBq"
+1663071168666	Marionette	INFO	Marionette enabled
+1663071168672	Marionette	INFO	Listening on port 55454
+WebDriver BiDi listening on ws://localhost:55445
+Read port: 55454
+1663071168862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSURYA~1\\AppData\\Local\\Temp\\3\\rust_mozprofileesoiBq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55445/devtools/browser/e00b5ef4-75e4-4f1d-a6f0-1c6b3b728ace
+JavaScript warning: moz-extension://4461dfa6-0e1a-43bd-8426-589407297d38/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1663071257625	Marionette	INFO	Stopped listening on port 55454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\RSURYA~1\AppData\Local\Temp\3\rust_mozprofileesoiBq\sessionCheckpoints.json.tmp) to destination(C:\Users\RSURYA~1\AppData\Local\Temp\3\rust_mozprofileesoiBq\sessionCheckpoints.json)
+53957
+Read port: 53966
+1663071256114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RSURYA~1\\AppData\\Local\\Temp\\3\\rust_mozprofileYtLMuG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53957/devtools/browser/c8fb4cc2-7fad-4159-81f3-bc1e06bcbfbd
+JavaScript warning: moz-extension://27b465e2-85d7-471e-8a19-ba6b889c2271/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1663071268963	Marionette	INFO	Stopped listening on port 53966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
